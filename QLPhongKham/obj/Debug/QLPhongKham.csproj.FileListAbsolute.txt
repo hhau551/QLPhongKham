@@ -1,0 +1,94 @@
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\bin\Debug\QLPhongKham.exe.config
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\bin\Debug\QLPhongKham.exe
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\bin\Debug\QLPhongKham.pdb
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.dll
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.xml
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.AssemblyReference.cache
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmBenh.resources
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmBenhNhan.resources
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmDangNhap.resources
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmDichVu.resources
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmKhamBenh.resources
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmNhanSu.resources
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmTaoTaiKhoan.resources
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmThuoc.resources
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmTrangChu.resources
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmVienPhi.resources
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.Properties.Resources.resources
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.GenerateResource.cache
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.CoreCompileInputs.cache
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.exe
+C:\Users\hhau0\source\repos\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.pdb
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\bin\Debug\QLPhongKham.exe.config
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\bin\Debug\QLPhongKham.exe
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\bin\Debug\QLPhongKham.pdb
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.dll
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.xml
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.AssemblyReference.cache
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmBenh.resources
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmBenhNhan.resources
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmDangNhap.resources
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmDichVu.resources
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmKhamBenh.resources
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmNhanSu.resources
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmTaoTaiKhoan.resources
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmThuoc.resources
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmTrangChu.resources
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmVienPhi.resources
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.Properties.Resources.resources
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.GenerateResource.cache
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.CoreCompileInputs.cache
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.exe
+C:\Users\hhau0\source\Đồ án Quản lý Phòng Khám\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.pdb
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\bin\Debug\QLPhongKham.exe.config
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\bin\Debug\QLPhongKham.exe
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\bin\Debug\QLPhongKham.pdb
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.dll
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.xml
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.AssemblyReference.cache
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmBenh.resources
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmBenhNhan.resources
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmDangNhap.resources
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmDichVu.resources
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmKhamBenh.resources
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmNhanSu.resources
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmTaoTaiKhoan.resources
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmThuoc.resources
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmTrangChu.resources
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmVienPhi.resources
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.Properties.Resources.resources
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.GenerateResource.cache
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.CoreCompileInputs.cache
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.exe
+C:\Users\hhau0\source\QLPhongKham_Nhom9\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.pdb
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\bin\Debug\QLPhongKham.exe.config
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\bin\Debug\QLPhongKham.exe
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\bin\Debug\QLPhongKham.pdb
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.dll
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.xml
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.AssemblyReference.cache
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.SuggestedBindingRedirects.cache
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmBenh.resources
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmBenhNhan.resources
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmDangNhap.resources
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmDichVu.resources
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmKhamBenh.resources
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmNhanSu.resources
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmTaoTaiKhoan.resources
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmThuoc.resources
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmTrangChu.resources
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.frmVienPhi.resources
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.Properties.Resources.resources
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.GenerateResource.cache
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.CoreCompileInputs.cache
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.CopyComplete
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.exe
+D:\HuynhThiBichHau_DaoPhuongAnh_DinhTrongSu\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.pdb
